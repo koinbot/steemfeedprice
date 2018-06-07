@@ -1,6 +1,0 @@
-{
-    "name": "account",
-    "wif": "your private key",
-    "interval": 60,
-    "port": 8080
-}
