@@ -1,0 +1,12 @@
+{
+  "name": "steemfeedprice",
+  "version": "0.0.1",
+  "description": "Steem Feed Price",
+  "main": "feedprice.js",
+  "author": "@koinbot",
+  "license": "MIT License",
+  "dependencies": {
+    "request": "latest",
+    "steem": "latest"
+  }
+}
