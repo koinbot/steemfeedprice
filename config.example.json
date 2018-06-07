@@ -1,0 +1,5 @@
+{
+    "name": "account",
+    "wif": "private key",
+    "interval": 60
+}
