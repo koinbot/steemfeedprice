@@ -6,4 +6,5 @@ npm install
 
 # run
 node feedprice.js
+
 forever start feedprice.js
