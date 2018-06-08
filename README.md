@@ -8,9 +8,19 @@ Use coinmarketcap api.
 ```npm install```
 
 # config
-name : your steem acoount name.  
-wif : your steem pricate key.  
-interval : minute, e.g. 60 minute.
+name : "your steem acoount name"  
+wif : "your steem private key"  
+interval : minute 
+
+e.g.
+```
+{
+    "name": "koinbot",
+    "wif": "5J********************",
+    "interval": 60
+}
+```
+
 
 # run
 ```node feedprice.js```  
