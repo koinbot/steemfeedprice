@@ -13,6 +13,7 @@ wif : your steem pricate key.
 interval : minute, e.g. 60 minute.
 
 # run
-node feedprice.js  
-forever start feedprice.js  //A simple CLI tool for ensuring that a given script runs continuously
+```node feedprice.js```  
+or  
+```forever start feedprice.js```  //A simple CLI tool for ensuring that a given script runs continuously
 
