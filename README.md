@@ -32,7 +32,7 @@ e.g.
 
 
 ## run
-```node feedprice.js```  
+```node pricefeed.js```  
 or  
-```forever start feedprice.js```  //A simple CLI tool for ensuring that a given script runs continuously
+```forever start pricefeed.js```  //A simple CLI tool for ensuring that a given script runs continuously
 
