@@ -2,9 +2,9 @@
 steem price feed for witness. It's written in Node.JS
 
 ## basic
-* Use coinmarketcap api.
 * Use Nods.JS
 * Package dependencies : request, steem
+* Use coinmarketcap api (https://coinmarketcap.com/api/)
 
 ## install
 Download the git repository, then edit config.json.
