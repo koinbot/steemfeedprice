@@ -5,11 +5,11 @@ steem price feed for witness.
 Use coinmarketcap api.
 
 # install
-npm install
+```npm install```
 
 # config
-name : your steem acoount name.
-wif : your steem pricate key.
+name : your steem acoount name.  
+wif : your steem pricate key.  
 interval : minute, e.g. 60 minute.
 
 # run
