@@ -1,13 +1,13 @@
 # steem price feed 
 steem price feed for witness.
 
-# steem price
+## steem price
 Use coinmarketcap api.
 
-# install
+## install
 ```npm install```
 
-# config
+## config
 name : "your steem acoount name"  
 wif : "your steem private key"  
 interval : minute 
@@ -22,7 +22,7 @@ e.g.
 ```
 
 
-# run
+## run
 ```node feedprice.js```  
 or  
 ```forever start feedprice.js```  //A simple CLI tool for ensuring that a given script runs continuously
