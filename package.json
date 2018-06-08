@@ -1,8 +1,8 @@
 {
-  "name": "steemfeedprice",
+  "name": "steempricefeed",
   "version": "0.0.1",
-  "description": "Steem Feed Price",
-  "main": "feedprice.js",
+  "description": "Steem Price Feed for witness",
+  "main": "pricefeed.js",
   "author": "@koinbot",
   "license": "MIT License",
   "dependencies": {
